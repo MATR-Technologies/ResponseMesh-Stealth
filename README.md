@@ -1,2 +1,2 @@
-# ResponseMesh-Stealth
-ReponseMesh Stealth Setup Instructions
+# ReponseMesh Stealth Setup Instructions
+
